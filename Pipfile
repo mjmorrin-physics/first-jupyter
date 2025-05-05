@@ -4,7 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-setuptools = "*"
 requests = "*"
 
 [dev-packages]
@@ -12,4 +11,4 @@ ipython = "*"
 jupyterlab = "*"
 
 [requires]
-python_version = "3.12"
+python_version = "3.10"
